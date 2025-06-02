@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Muhammad-BinMushtaq
 
-- 👀 I’m interested in Web Development, Artificial Intelligence, and Software Engineering.
-- 🌱 I’m currently learning JavaScript, React.js, and exploring Backend Technologies.
-- 💞️ I’m looking to collaborate on Open Source Projects, Web Applications, and AI-Powered Tools.
+- 👀 Full stack software Development, Artificial Intelligence .
+- 🌱 Working learning JavaScript, React.js, and exploring Backend Technologies.
+- 💞️ Looking to collaborate on Open Source Projects, Web Applications, and AI-Powered Tools.
 - 📫 How to reach me: muhammadbinmushtaq3@gmail.com
 - ⚡ Fun fact: I love turning ideas into creative tech solutions and spend hours building and learning new tools!
 
