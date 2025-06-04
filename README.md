@@ -1,4 +1,4 @@
-<h1>Hi, I’m Muhammad Bin Mushtaq! 👋</h1>
+<h1>Hi, I’m Muhammad ! 👋</h1>
 
 <p ">
   🎓 <strong>Software Engineer</strong> <br/>
