@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I’m Muhammad Bin Mushtaq! 👋</h1>
+<h1>Hi, I’m Muhammad Bin Mushtaq! 👋</h1>
 
-<p align="center">
+<p ">
   🎓 <strong>Software Engineer</strong> <br/>
   💻 <strong>Full Stack Development</strong> • <strong>Business Development</strong> • <strong>Scalable Digital Solutions</strong>
 </p>
@@ -48,13 +48,17 @@ I aim to develop solutions that are both technically sound and aligned with real
 ## 🌟 Featured Projects
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-24292e?style=for-the-badge&logo=github" />
+<a href="https://github.com/Muhammad-BinMushtaq/Portfolio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-24292e?style=for-the-badge&logo=github" alt="GitHub Portfolio Badge" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/GitHub-TraceNet-24292e?style=for-the-badge&logo=github" />
+
+  <!-- GitHub TraceNet Badge -->
+  <a href="https://github.com/Muhammad-BinMushtaq/TraceNet" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-TraceNet-24292e?style=for-the-badge&logo=github" alt="GitHub TraceNet Badge" />
+  </a>
+ 
 </p>
-
-> Explore my portfolio site for more, or dive into TraceNet – my latest project.
-
 ---
 
 ## 📈 Currently Learning
@@ -69,8 +73,11 @@ I aim to develop solutions that are both technically sound and aligned with real
 ## 🤝 Let’s Connect
 
 <p>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="pointer-events: none;" />
+<a href="https://www.linkedin.com/in/muhammad-bin-mushtaq1/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 </p>
+
 
 ---
 
@@ -85,8 +92,3 @@ Feel free to reach out:
 
 ---
 
-## 🛠️ Getting Started
-
-### 📁 Navigate to the project folder:
-```bash
-cd Portfolio
